@@ -1,0 +1,1 @@
+document.getElementById("loadmore").addEventListener("click", function() {alert("More poems coming soon! stay tuned");});
